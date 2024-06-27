@@ -1,5 +1,7 @@
 Designed and implemented a dynamic front-end website using HTML showcasing my Biodata consisting skills, education, experiences, and personal projects in an interactive format. Utilized Media Queries to ensure responsive design, also integrating modern CSS principles like hover animation on buttons, Flexbox for structured layout, navigation bar for enhanced usability, use of typography, and color scheme for aesthetic appeal. 
-HTML, CSS
+Techstack used: HTML, CSS
+
+Link Attached here: https://jyotidixitportfolio.w3spaces.com/
 
 ![Screenshot 2024-06-27 160924](https://github.com/JyotiDixit172/Personal_Portfolio/assets/97622078/9269032d-92e4-4834-aff5-3ac2dbbaf181)
 ![Screenshot 2024-06-27 161156](https://github.com/JyotiDixit172/Personal_Portfolio/assets/97622078/97532dbf-5446-47d7-95f7-d7b8992c6967)
